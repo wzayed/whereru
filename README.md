@@ -1,3 +1,3 @@
-# Hello ther.
+# Hello there.
 
 fi
